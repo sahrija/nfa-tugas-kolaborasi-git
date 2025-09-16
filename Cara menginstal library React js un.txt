@@ -1,0 +1,78 @@
+Cara menginstal library React js untuk Frontend
+
+Microsoft Windows [Version 10.0.26100.3194]
+(c) Microsoft Corporation. All rights reserved.
+
+
+C:\xampp\htdocs\Tugas Kuliah\Semester4>cd Frontend
+
+C:\xampp\htdocs\Tugas Kuliah\Semester4\Frontend>npm create vite@latest
+Need to install the following packages:
+create-vite@6.3.1
+Ok to proceed? (y) y
+
+
+> npx
+> create-vite
+
+|
+o  Project name:
+|  movie-app
+|
+o  Select a framework:
+|  React
+|
+o  Select a variant:
+|  JavaScript
+|
+o  Scaffolding project in C:\xampp\htdocs\Tugas Kuliah\Semester4\Frontend\movie-app...
+|
+—  Done. Now run:
+
+  cd movie-app
+  npm install
+  npm run dev
+
+
+C:\xampp\htdocs\Tugas Kuliah\Semester4\Frontend>cd movie-app
+
+C:\xampp\htdocs\Tugas Kuliah\Semester4\Frontend\movie-app>npm install
+
+added 149 packages, and audited 150 packages in 52s
+
+30 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+C:\xampp\htdocs\Tugas Kuliah\Semester4\Frontend\movie-app>npm run dev
+
+> movie-app@0.0.0 dev
+> vite
+
+
+  VITE v6.2.2  ready in 576 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+Vite - Scaffolding Project.
+
+
+Cara menginstal react route dom
+
+C:\xampp\htdocs\Tugas Kuliah\Semester4\Frontend\Pertemuan6>cd movie-app
+
+C:\xampp\htdocs\Tugas Kuliah\Semester4\Frontend\Pertemuan6\movie-app>npm i react-router-dom
+
+changed 48 packages, and audited 155 packages in 1m
+
+30 packages are looking for funding
+  run `npm fund` for details
+
+1 moderate severity vulnerability
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
